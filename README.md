@@ -1,5 +1,5 @@
-Nama    : Kevin Ivan Eda Radhiyya
+Nama    : Nabiilah Putri Safa
 
-NPM     : 2201233210
+NPM     : 2206030426
 
-Kelas   : PBP B
+Kelas   : PBP A
